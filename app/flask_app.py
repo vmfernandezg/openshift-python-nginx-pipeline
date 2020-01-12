@@ -7,12 +7,12 @@ def get_tasks():
     tasks = [
         {
             'id': 1,
-            'title': 'Openshift Jenkins Pipeline Python/Nginx Implementation !!!',
+            'title': '¡¡¡ Openshift Jenkins Pipeline Python/Nginx Implementation !!!',
             'description': 'Find the implementation at https://github.com/ruddra/openshift-python-nginx'
         },
         {
             'id': 2,
-            'title': 'Openshift Jenkins Pipeline Django Implementation !!!',
+            'title': '¡¡¡ Openshift Jenkins Pipeline Django Implementation !!!',
             'description': 'Find the implementation at https://github.com/ruddra/openshift-django'
         }
     ]
